@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Surprisingly, neither a wolf nor gold. 
